@@ -14,7 +14,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 ## B. Data Sources
 
 **Primary Source:**  
-- Lending Club Dataset from Kaggle (dataset now deleted).
+- [Lending Club Dataset](https://github.com/chauchau2203/Financial-Loan-Analysis/blob/main/financial_loan.csv) from Kaggle (dataset source now deleted).
 
 **Key Columns:**
 - `id`: Unique loan identifier
@@ -50,7 +50,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 
 ## D. Project Structure
 
-### 1. [Financial Loan Analysis.sql]()
+### 1. [Financial Loan Analysis.sql](https://github.com/chauchau2203/Financial-Loan-Analysis/blob/main/Financial%20Loan%20Analysis.sql)
 
 *SQL queries for data exploration, KPI calculations, and loan performance analysis.*
 
@@ -83,7 +83,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - Summarizes metrics by loan term (e.g., 36 months, 60 months), employment length, loan purpose, and home ownership status, supporting multidimensional analysis and segmentation.
 
 
-### 2. [Financial Loan Dashboard.pbix]()
+### 2. [Financial Loan Dashboard.pbix](https://github.com/chauchau2203/Financial-Loan-Analysis/blob/main/Financial%20Loan%20Dashboard.pbix)
 
 *Power BI file with dashboards: Summary, Overview, and Details, including DAX measures.*
 
