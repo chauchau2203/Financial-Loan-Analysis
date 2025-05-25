@@ -1,6 +1,6 @@
 # Financial-Loan-Analysis
 
-## Description
+## A. Description
 
 This project provides a comprehensive analysis of financial loan data to monitor and assess lending activities and performance. The primary objective is to create data-driven insights through detailed analysis of loan applications, funding amounts, repayment patterns, and borrower characteristics. The project aims to help financial institutions make informed decisions, track loan portfolio health, and identify trends that can inform lending strategies.
 
@@ -11,7 +11,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - Provide comprehensive dashboards for executive decision-making.
 - Track key performance indicators (KPIs) including MTD and MoM changes.
 
-## Data Sources
+## B. Data Sources
 
 **Primary Source:**  
 - Lending Club Dataset from Kaggle (dataset now deleted).
@@ -34,7 +34,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - `dti`: Debt-to-income ratio
 - `total_pymnt`: Total amount received to date
 
-## Installation/Setup
+## C. Installation/Setup
 
 ### Prerequisites
 - SQL Server Management Studio (SSMS) 21. Download [here](https://learn.microsoft.com/en-us/ssms/install/install)
@@ -48,7 +48,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - Open the provided `.pbix` file for dashboards.
 - Verify data refresh and relationships.
 
-## Project Structure
+## D. Project Structure
 
 ### 1. [Financial Loan Analysis.sql]()
 
@@ -117,11 +117,11 @@ This project provides a comprehensive analysis of financial loan data to monitor
 -   FILL IN THIS BLANK
 
 
-## Analysis and Results
+## E. Analysis and Results
 
 *[To be completed with findings and insights]*
 
-## Future Work Extension and Improvement
+## F. Future Work Extension and Improvement
 
 - **Real-time Data Integration:** Automate data pipelines for real-time monitoring.
 - **Advanced Analytics:** Integrate machine learning for default prediction.
@@ -132,7 +132,7 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - **Visualization Enhancements:** Add drill-downs, alerts, and custom KPI tracking.
 - **Data Quality:** Improve validation and integrate external economic data.
 
-## License
+## G. License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
