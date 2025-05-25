@@ -112,14 +112,55 @@ This project provides a comprehensive analysis of financial loan data to monitor
 ![92b648b7-0661-4ba7-9648-f20b8b4c35a6](https://github.com/user-attachments/assets/20863ddd-2d87-4e51-a8d4-88698972084a)
 
 
-### 3. [Financial Loan Report.pdf]()
-
--   FILL IN THIS BLANK
-
-
 ## E. Analysis and Results
 
-*[To be completed with findings and insights]*
+### Overall Portfolio Performance
+The loan portfolio demonstrates **strong performance** with 38,576 total loan applications and a healthy funding-to-recovery ratio. The bank has **funded $435.76M** while **receiving $473.07M** in repayments, indicating a positive return of approximately **8.6%** above the funded amount. This suggests effective loan management and collection processes.
+
+### Risk Profile and Loan Quality
+**Good vs Bad Loan Distribution:**
+- The portfolio shows excellent loan quality with **86.2% classified as "Good Loans"** (Fully Paid + Current status) versus only **13.8% as "Bad Loans"** (Charged Off). This indicates strong underwriting standards and borrower selection criteria.
+
+**Financial Impact Analysis:**
+
+- **Good loans** generated $435.79M in collections from $370.22M funded (**17.7% return**).
+- **Bad loans** only recovered $37.28M from $65.53M funded (**43.1% loss rate**).
+- The overall portfolio benefits significantly from the high proportion of good loans.
+
+### Temporal and Seasonal Trends
+The monthly trend analysis reveals **consistent growth** throughout the year, with applications increasing from approximately 2.3K in January to 4.3K in December. This **87% growth** suggests either business expansion, increased market demand, or successful marketing campaigns. The steady upward trajectory indicates healthy business momentum.
+
+### Geographic Distribution and Market Penetration
+The state-wise distribution shows concentrated activity in larger population states, with certain regions displaying higher loan volumes. This geographic concentration may indicate market saturation opportunities in underserved states or successful regional strategies that could be replicated.
+
+### Borrower Demographics and Employment Patterns
+Employment Length Insights:
+
+- Borrowers with **10+ years** of employment represent the **largest segment** (8.9K applications).
+- Shorter tenure employees **(1-2 years**) show **significant representation** (4.6K and 4.4K respectively).
+- This distribution suggests the bank successfully serves both established and emerging professionals.
+
+### Loan Purpose and Financial Behavior
+Debt Consolidation Dominance:
+The purpose analysis reveals **debt consolidation as the primary driver** (~18K applications), followed by **credit card refinancing** (~5K). This indicates customers are actively managing their debt obligations and seeking better terms, suggesting a financially conscious customer base.
+
+### Term Structure and Risk Management
+The loan term distribution shows **73.2% are 60-month loans** (28.2K) versus **26.8% for 36-month loans** (10.3K). This preference for longer terms may indicate:
+- Customer preference for lower monthly payments.
+- Bank strategy to extend interest income duration.
+- Potential higher risk exposure due to longer repayment periods.
+
+### Home Ownership and Stability Indicators
+The home ownership analysis shows a relatively balanced distribution between renters, mortgage holders, and homeowners. This diversity suggests the bank serves various economic segments, though the specific proportions could indicate target market focus areas.
+
+### Interest Rate and DTI Analysis
+With an **average interest rate of 12.05%** and **average DTI of 13.33%**, the portfolio reflects **moderate risk pricing**. The month-over-month changes (+3.47% interest rate, +2.73% DTI) suggest either tightening credit conditions or shifts in borrower profile.
+
+### Key Performance Indicators by Loan Status
+The detailed breakdown shows Current loans have the highest interest rate (15.10%) while Fully Paid loans average 11.64%. This suggests:
+- Higher risk pricing for ongoing loans.
+- Successful completion of lower-rate loans.
+- Potential correlation between interest rates and repayment success.
 
 ## F. Future Work Extension and Improvement
 
