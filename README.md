@@ -173,11 +173,7 @@ The detailed breakdown shows Current loans have the highest interest rate (15.10
 - **Visualization Enhancements:** Add drill-downs, alerts, and custom KPI tracking.
 - **Data Quality:** Improve validation and integrate external economic data.
 
-## G. License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 *Note: This project is for educational and analytical purposes. Data has been anonymized and should be used in compliance with applicable privacy regulations.*
 
