@@ -103,7 +103,8 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - Average interest rate and DTI.
 - Good vs. Bad loan KPIs.
 - Loan status grid view.
-![d6404874-96d2-44bf-a680-a54abb361a21](https://github.com/user-attachments/assets/0ac80cf2-87c1-459a-8420-d62e3cf8c7d0)
+![3f31bfb6-65ce-43e9-885e-9a5c6ab02e6a](https://github.com/user-attachments/assets/6b9cc8dd-628d-4eb6-bd9a-50d194a97c79)
+
 
 
 **Dashboard 2: Overview**
@@ -113,13 +114,15 @@ This project provides a comprehensive analysis of financial loan data to monitor
 - Employee length analysis. 
 - Loan purpose breakdown. 
 - Home ownership analysis. 
-![3d00f83d-741c-4a8a-9bd2-f6e6cce16f65](https://github.com/user-attachments/assets/66fd5bff-aefe-4c1f-8d53-0397e9ed916a)
+![d3af3c26-f515-450a-a59d-61680932a771](https://github.com/user-attachments/assets/179b5e62-f8d8-4908-924e-85c2fc32c3f4)
+
 
 
 **Dashboard 3: Details**
 - Data table for all key loan and borrower metrics.
 - Filterable, sortable interface for in-depth analysis.
-![92b648b7-0661-4ba7-9648-f20b8b4c35a6](https://github.com/user-attachments/assets/20863ddd-2d87-4e51-a8d4-88698972084a)
+![ef9788e8-eb1e-4e2f-bead-2a702354fa60](https://github.com/user-attachments/assets/2cc81465-9c0b-4e26-922d-a05da6ee49ec)
+
 
 
 ## E. Analysis and Results
